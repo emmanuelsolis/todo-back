@@ -1,0 +1,17 @@
+node_modules/
+npm-debug.log
+.env
+# TypeScript
+*.tsbuildinfo
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Dependencias específicas del sistema operativo
+.DS_Store
+Thumbs.db
